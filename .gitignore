@@ -4,3 +4,5 @@
 /programs/ass2test
 /programs/ass3backup
 
+# ignore any tarballs
+*.tar
