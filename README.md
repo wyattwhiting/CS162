@@ -1,4 +1,4 @@
-# CS162
+# CS162 - Intro to Computer Science II
 ## Fall 2020 - Oregon State University
 ### Final Grade: A
 
