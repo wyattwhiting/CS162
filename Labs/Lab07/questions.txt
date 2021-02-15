@@ -1,0 +1,11 @@
+Which functions are you going to make polymorphic?
+I will make a new printShape() function which will be implemented polymorhpically.
+
+How will you make it polymorphic?
+Each class will have its own implementation of what printing means. It will make sense once implemented. 
+
+Can it be a pure virtual function?
+No. The base class needs to have its own implementation.
+
+Which class have you made an abstract base class?
+Shape

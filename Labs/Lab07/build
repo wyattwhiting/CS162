@@ -1,0 +1,8 @@
+#!/bin/bash
+
+#quick build instructions
+
+echo "Building project..."
+make clean
+make
+

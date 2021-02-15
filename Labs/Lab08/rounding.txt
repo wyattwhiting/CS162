@@ -1,0 +1,7 @@
+What will you have to change in your vector class when you add a capacity private member? The capacity is the actual number of elements allocated on the heap for the vector, and the size is the number that is being used.
+
+You'd just have to keep track of the size separate from the capacity. For example, you'd increment both size and capacity when size < capacity and push_back is called (similar for dropping an element), but you'd only change capacity when resize is called or adding a new member would cause size to be greater than the current capacity. 
+
+Write out a plan for the extra constructors you might need for testing this and how the push_back() function changes with regard to having both capacity and size members.
+
+I don't want to bother writing the plan, just look at the implementation.
