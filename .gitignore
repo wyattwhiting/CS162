@@ -1,8 +1,8 @@
 # several things to ignore
 /programs/experiment.cpp
 /programs/test
-/programs/ass2test
-/programs/ass3backup
+/programs/ass2test/
+/programs/ass3backup/
 
 # ignore any tarballs
 *.tar
